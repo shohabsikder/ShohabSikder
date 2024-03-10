@@ -2,7 +2,7 @@
 #### Java Developer
 ![Java Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-👋 Hi there! As a dedicated full-stack Java developer, I'm [Your Name]. I have a strong interest in creating scalable and reliable web and mobile applications. Having a strong background in HTML, CSS, Angular, Spring Boot, Flutter, and Android, I enjoy using clear, effective code to bring creative concepts to life.
+👋 Hi there! As a dedicated full-stack Java developer, I'm Shohab Sikder. I have a strong interest in creating scalable and reliable web and mobile applications. Having a strong background in HTML, CSS, Angular, Spring Boot, Flutter, and Android, I enjoy using clear, effective code to bring creative concepts to life.
 
 A sample of what I can offer is as follows:
 
