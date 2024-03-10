@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shohab Sikder
 #### Java Developer
-![Java Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Java Developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://www.linkedin.com/in/shohab-sikder/overlay/background-image/)
 
 👋 Hi there! As a dedicated full-stack Java developer, I'm Shohab Sikder. I have a strong interest in creating scalable and reliable web and mobile applications. Having a strong background in HTML, CSS, Angular, Spring Boot, Flutter, and Android, I enjoy using clear, effective code to bring creative concepts to life.
 
