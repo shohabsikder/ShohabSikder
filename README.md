@@ -9,7 +9,7 @@ A sample of what I can offer is as follows:
 
 Skilled in front-end technologies such as Angular, HTML, CSS and JavaScript which guarantees smooth user interfaces and eye-catching designs.
 
-💻 competent in back-end programming with Spring Boot, MySql, PostgreSQL for database making use of its capabilities to build server-side apps that are scalable and maintainable.
+💻 competent in back-end programming with  Spring Boot and MySql, PostgreSQL for database making use of its capabilities to build server-side apps that are scalable and maintainable.
 
 📱 knowledgeable about creating native experiences for a range of platforms and devices through the use of Flutter and Android in mobile app development.
 
