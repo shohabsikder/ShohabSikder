@@ -1,27 +1,8 @@
 ### Hi there 👋, I'm Shohab Sikder
 #### Java Developer
-![Java Developer](https://media.licdn.com/dms/image/D5616AQEEJG99bmsQOA/profile-displaybackgroundimage-shrink_350_1400/0/1710049195522?e=1715817600&v=beta&t=N4N8Awuvmg9-WeKMocWAclu8YOiP2ZENZuz6m1yxkTs)
+![Java Developer](https://github.com/ShohabSikder/ShohabSikder/blob/main/image/Shohab%20sikder.jpg)
 
 👋 Hi there! As a dedicated full-stack Java developer, I'm Shohab Sikder. I have a strong interest in creating scalable and reliable web and mobile applications. Having a strong background in HTML, CSS, Angular, Spring Boot, Flutter, and Android, I enjoy using clear, effective code to bring creative concepts to life.
-
-A sample of what I can offer is as follows:
-
-
-Skilled in front-end technologies such as Angular, HTML, CSS and JavaScript which guarantees smooth user interfaces and eye-catching designs.
-
-💻 competent in back-end programming with  Spring Boot and MySql, PostgreSQL for database making use of its capabilities to build server-side apps that are scalable and maintainable.
-
-📱 knowledgeable about creating native experiences for a range of platforms and devices through the use of Flutter and Android in mobile app development.
-
-I'm dedicated to providing top-notch solutions that go above and above, whether I'm designing sophisticated user interfaces, developing feature-rich mobile apps, or designing strong backend systems.
-
-Come together and let's work together on fascinating initiatives! Explore my repositories at your convenience and get in touch for talks or collaborations.
-
-Cheers to coding! 💀
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
