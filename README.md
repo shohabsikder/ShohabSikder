@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working as a Software Developer at Spectrum Engineering Consortium Ltd. 
 - 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on Software Development with Online Market Place
+- 👯 I’m looking to collaborate on Software Development in Online Market Place
 - 💬 Ask me about Java , JavaScript
 
 
