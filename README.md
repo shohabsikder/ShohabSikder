@@ -15,10 +15,10 @@
 
 
 
-- 🔭 I’m currently working as a Tarinee of Isdb-BISEW  
-- 🌱 I’m currently learning Flutter 
-- 👯 I’m looking to collaborate on Software Development 
-- 💬 Ask me about Java 
+- 🔭 I’m currently working as a Software Developer at Spectrum Engineering Consortium Ltd. 
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate on Software Development with Online Market Place
+- 💬 Ask me about Java , JavaScript
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShohabSikder)  
