@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Shohab Sikder
 ### Full Stack Developer
-![Java Developer](https://github.com/ShohabSikder/ShohabSikder/blob/main/image/Shohab%20sikder.jpg)
+![Java Developer](https://github.com/ShohabSikder/ShohabSikder/blob/main/image/Shohab%20sikder.png)
 👋  Hi there! As a dedicated full-stack  developer, I have a strong interest in creating scalable and reliable web and mobile applications. Having a strong background in HTML, CSS, Angular, Spring Boot, Flutter, and Android, I enjoy using clear, effective code to bring creative concepts to life.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
